@@ -10,7 +10,7 @@
 numpy, scikit-learn, torch, tqdm, matplotlib
 
 ## Data
-Because of the sensibility of the satellite communication data, the data is not concluded in this repository. If you want get more information, please contact the corresponding author. Thanks for understanding.
+Because of the sensibility of the satellite communication data, the data is not concluded in this repository. If you want to get more information, please contact the corresponding author. Thanks for understanding.
 
 
 
