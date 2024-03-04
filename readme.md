@@ -1,4 +1,4 @@
-# This code is for the work of CLExtract [(A Robust Decoding System for Highly Corrupted Satellite Stream Recovery)](https://openreview.net/forum?id=r-gYaqIG_G)
+# This code is for the work of CLExtract 
 
 <p align="center">
 <img src="./pictures/framework0.PNG" width = "700" alt="" align=center />
