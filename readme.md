@@ -13,4 +13,8 @@ numpy, scikit-learn, torch, tqdm, matplotlib
 Because of the sensibility of the satellite communication data, the data is not concluded in this repository. If you want to get more information, please contact the corresponding author. Thanks for understanding.
 
 
-
+## pipeline of this work
+- get the data(clear headers)
+- preprocessing the data(preprocessing.py)
+- CLExtract pretrain(./src/CLExtract_pretrain.py)
+- CLExtract finetune(./src/CLExtract_finetune.py)
